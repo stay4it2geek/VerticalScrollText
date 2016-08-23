@@ -19,7 +19,7 @@ public class MainActivity extends Activity {
 
     private int num = 0;
 
-    private String[] mStrData = {"点击查看位置", "苏宁看不下去，全场免费送！", "58同城来凑热闹!", "京东大促,全场5元!", "天猫不服,全场不要钱!", "苏宁看不下去，全场免费送！"};
+    private String[] mStrData = {"点击查看选择的位置 ", "苏宁看不下去，全场免费送！", "58同城来凑热闹!", "京东大促,全场5元!", "天猫不服,全场不要钱!", "苏宁看不下去，全场免费送！"};
 
     @TargetApi(Build.VERSION_CODES.JELLY_BEAN_MR1)
     @Override
